@@ -1,0 +1,2 @@
+{"Name":"lichen","Password":"123456","Email":"1719966148@qq.com","Phone":"13100000000"}
+{"Name":"lichen_2","Password":"123456","Email":"2719966148@qq.com","Phone":"13100000001"}
